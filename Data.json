@@ -1,0 +1,9 @@
+  {
+    "email": "anton@test.com",
+    "password": "anton123",
+    "cardNumber": "4234123412341234",
+    "cardDate": "12:29",
+    "cardName": "customer name",
+    "cardCvc": 555
+  }
+ 
